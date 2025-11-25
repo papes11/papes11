@@ -2,9 +2,9 @@
 
 **Blockchain Developer | Solana Expert | Full-Stack Developer**
 
-[![Email](https://img.shields.io/badge/Email-pramesh0721@gmail.com-blue?style=flat&logo=gmail)](mailto:pramesh0721@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](YOUR_TWITTER_URL)
+[![Email](https://img.shields.io/badge/Email-pramesh0721@gmail.com-blue?style=flat&logo=gmail)](mailto:papesrock11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pramesh-sharma-b50724345/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://x.com/simosun01)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=google-chrome)](YOUR_PORTFOLIO_URL)
 
 ## 🚀 About Me
