@@ -12,8 +12,8 @@
 ```python
 class BlockchainDeveloper:
     def __init__(self):
-        self.name = "Pramesh Sharma"
-        self.location = "Sikkim, India"
+        self.name = "papes"
+        self.location = "Earth,asia,india"
         self.focus = "Solana Blockchain Development"
         self.experience = "5+ years in programming"
         
