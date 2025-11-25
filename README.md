@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-pramesh0721@gmail.com-blue?style=flat&logo=gmail)](mailto:papesrock11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pramesh-sharma-b50724345/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://x.com/simosun01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=google-chrome)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=google-chrome)](https://papes11.github.io/portfolio/)
 
 ## 🚀 About Me
 
