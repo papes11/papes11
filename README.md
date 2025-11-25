@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Papes(dev name)
 
-<!--
-**papes11/papes11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Blockchain Developer | Solana Expert | Full-Stack Developer**
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Email-pramesh0721@gmail.com-blue?style=flat&logo=gmail)](mailto:pramesh0721@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](YOUR_TWITTER_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=google-chrome)](YOUR_PORTFOLIO_URL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+```python
+class BlockchainDeveloper:
+    def __init__(self):
+        self.name = "Pramesh Sharma"
+        self.location = "Sikkim, India"
+        self.focus = "Solana Blockchain Development"
+        self.experience = "5+ years in programming"
+        
+    def skills(self):
+        return {
+            'blockchain': ['Solana', 'Smart Contracts', 'DeFi', 'DEX', 'Web3'],
+            'frontend': ['React', 'JavaScript', 'TypeScript', 'HTML/CSS'],
+            'backend': ['Node.js', 'Python', 'REST APIs'],
+            'tools': ['Git', 'Docker', 'VS Code', 'OBS Studio']
+        }
+    
+    def current_work(self):
+        return "Building decentralized applications on Solana"
