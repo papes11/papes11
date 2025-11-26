@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Papes(dev name)
+# 👋 Hi, I'm Papes
 
 **Blockchain Developer | Solana Expert | Full-Stack Developer**
 
